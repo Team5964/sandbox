@@ -37,3 +37,4 @@ Filter Search List
 sudo apt-get install unity-tweak-tool
 ```
 + Made Codebase Instructions
++ Edited script for Gazebo installation: Changed all instances of Gazebo6 to Gazebo7
