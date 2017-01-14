@@ -37,4 +37,4 @@ Filter Search List
 sudo apt-get install unity-tweak-tool
 ```
 + Made Codebase Instructions
-+ Edited script for Gazebo installation: Changed all instances of Gazebo6 to Gazebo7
++ Edited script for Gazebo installation (http://wpilib.screenstepslive.com/s/4485/m/23353/l/478421-installing-frcsim-with-a-script-ubuntu): Changed all instances of Gazebo6 to Gazebo7
