@@ -38,3 +38,11 @@ sudo apt-get install unity-tweak-tool
 ```
 + Made Codebase Instructions
 + Edited script for Gazebo installation (http://wpilib.screenstepslive.com/s/4485/m/23353/l/478421-installing-frcsim-with-a-script-ubuntu): Changed all instances of Gazebo6 to Gazebo7
+
+
+## Day 3
++ Updated Roborio and Downloaded Java
++ Ran new pneumatic code through pnu_demo.java
++ Introduced classes "Solonoid" and "Compressor"
++ Solonoid - Switch, Compressor - Current
++ *Must fix RobotCode2017 with the Class "SendableChooser"*
